@@ -4,7 +4,7 @@ build:
     - install-packages:
         packages: git
     - arjen/hugo-build:
-        version: "HEAD"
+        version: "0.20"
         theme: herring-cove
         flags: --buildDrafts=true
 
