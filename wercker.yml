@@ -4,11 +4,11 @@ build:
     - install-packages:
         packages: git
     - arjen/hugo-build:
-        version: "0.20"
+        version: "0.20  "
         theme: herring-cove
         flags: --buildDrafts=true
-
 deploy:
+   steps:
     - install-packages:
         packages: git ssh-client
     - lukevivier/gh-pages@0.2.1:
