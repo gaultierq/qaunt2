@@ -12,14 +12,29 @@ Originally from Paris, I am currently enjoying a nomadic lifestyle.
 If you want to get in touch, my <a href="qaunt2/findme">contact information</a> is available.
 
 
-My other interests:
-chess: #http://www.pearltrees.com/quentingaultier
-kite-surfing: 
-# photo
-# writing
+### Techno:  
 
-[films] (http://www.imdb.com/user/ur68076412/)
+- java ++++
+- android ++++
+- sh ++
+- html ++
+- js ++
+- typescript ++
+- linux +
 
-[music] (http://www.last.fm/user/tank-)
+I like to learn new stuff; here is my current shortlist:   
 
-[readings] (https://www.goodreads.com/user/show/54165251-quentin-gaultier) 
+- solidity ++++
+- kotlin +++
+- python ++
+- ruby +
+
+
+You can also browse my <a href="/learning" target="_blank">learning history</a>.
+
+### Other interests:
+- [chess] (https://fr.lichess.org/@/qgaultier)
+- [music] (http://www.last.fm/user/tank-)
+- [films] (http://www.imdb.com/user/ur68076412/)
+- [readings] (https://www.goodreads.com/user/show/54165251-quentin-gaultier) 
+- kite-surfing
