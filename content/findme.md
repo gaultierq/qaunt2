@@ -1,7 +1,7 @@
 +++
 date = "2017-04-17T15:38:49+02:00"
 draft = false
-title = "Contact me"
+title = "Contact"
 
 +++
 
